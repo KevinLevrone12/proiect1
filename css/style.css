@@ -1,0 +1,13 @@
+body {
+background-color: aliceblue;
+margin: 50px ;
+}
+p {
+    background-color: rgb(220, 220, 67);
+    padding: 1border0px;
+    border: 2px solid greenyellow; 
+    border-radius: 9% ;  
+}
+div {
+    color: blueviolet;
+}
